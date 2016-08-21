@@ -3,7 +3,7 @@
     "version": "0.2.1",
     "dependencies": {},
     "scripts": {
-        "start": "grunt serve --force"
+        "start": "grunt server --force"
     },
     "devDependencies": {
         "grunt": "~0.4.1",
